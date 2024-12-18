@@ -1,0 +1,23 @@
+body { background-color: rgb(217, 231, 185);
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #cff0e2;
+    padding: 4rem;
+}
+
+
+
+.card {
+    margin-bottom: 30px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #a3af26;
+}
